@@ -1,0 +1,9 @@
+.Header {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+}
+
+.Header a {
+    text-decoration: none;
+}
